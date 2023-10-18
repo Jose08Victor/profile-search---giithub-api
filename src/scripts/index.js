@@ -1,6 +1,6 @@
-import { getUser } from '/src/scripts/services/users.js'
-import { getRepositories } from '/src/scripts/services/repositories.js'
-import { getEvents } from '/src/scripts/services/events.js'
+import { getUser } from './src/scripts/services/users.js'
+import { getRepositories } from './src/scripts/services/repositories.js'
+import { getEvents } from './src/scripts/services/events.js'
 
 import { user } from '/src/scripts/objects/users.js'
 import { screen } from '/src/scripts/objects/screen.js'
