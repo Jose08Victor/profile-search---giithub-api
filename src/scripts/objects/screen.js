@@ -1,4 +1,4 @@
-import { maxItems } from './src/scripts/variables.js'
+import { maxItems } from '../variables.js'
 
 const screen = {
     userProfile: document.querySelector('.profile-data'),
